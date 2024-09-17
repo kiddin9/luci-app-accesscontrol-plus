@@ -7,6 +7,12 @@ msgstr "设置客户端访问互联网的时间"
 msgid "General switch"
 msgstr "开启/关闭"
 
+msgid "Base Setting"
+msgstr "基本设置"
+
+msgid "Advance Setting"
+msgstr "高级设置"
+
 msgid "Strict Mode"
 msgstr "严格模式"
 
